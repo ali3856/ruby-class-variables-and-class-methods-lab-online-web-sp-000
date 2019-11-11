@@ -5,7 +5,7 @@ attr_accessor :name, :artist, :genre
 @@genres = []
 @@artists = []
 
-def initialize
+def initialize (song_name, artist, genre)
   @@count += 1
   @@genres << genres
   @@artists <<artist
