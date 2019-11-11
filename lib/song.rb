@@ -1,7 +1,7 @@
 def initialize
 end
 
-def count 
+def count
 end
 
 def artists
