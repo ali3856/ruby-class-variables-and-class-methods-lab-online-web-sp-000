@@ -15,7 +15,7 @@ def initialize (song_name, artist, genre)
 end
 
 def self.count
-  @@count.
+  @@count
 end
 
 def self.genres
@@ -50,8 +50,4 @@ def self.artist_count
   artist_count
 end
 end
-
-
-
-
 end
