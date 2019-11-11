@@ -22,6 +22,10 @@ def self.genres
   @@genres
 end
 
+def self.artists
+  @@artists
+end
+
 
 
 
