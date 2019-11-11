@@ -1,3 +1,5 @@
+class Song
+
 def initialize
 end
 
@@ -8,4 +10,9 @@ def artists
 end
 
 def genres
+end
+
+
+
+
 end
